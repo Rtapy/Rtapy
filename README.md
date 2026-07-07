@@ -2,7 +2,7 @@
 
 **Backend Engineer · Python & Django**
 
-Building modular, production-grade backend systems for healthcare and public-sector platforms — from clean-architecture refactors to AI-powered data pipelines.
+I build production-grade backend systems with Python, Django, and FastAPI, with a focus on clean architecture, scalable APIs, data-driven workflows, and maintainable services for complex business domains.
 
 📫 shirafkanzarinhasan@gmail.com · [LinkedIn](https://www.linkedin.com/in/hasan-shirafkan-387828292/) · Tehran, IR
 
