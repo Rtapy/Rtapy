@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hasan Shirafkan
 
-<!--
-**Rtapy/Rtapy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Engineer · Python & Django**
 
-Here are some ideas to get you started:
+Building modular, production-grade backend systems for healthcare and public-sector platforms — from clean-architecture refactors to AI-powered data pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 shirafkanzarinhasan@gmail.com · [LinkedIn](https://www.linkedin.com/in/hasan-shirafkan-387828292/) · Tehran, IR
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+**Clinical Backend Modernisation & AI Rule Engine** — *Phoenix Life*
+Refactored an untested legacy FastAPI monolith into a modular clean-architecture service; built a three-layer rule engine and an OCR microservice using the OpenAI Vision API, cutting token consumption by 15%.
+
+**Face-Recognition Attendance System** — *Public Libraries Administration*
+Built a Django-based face-recognition attendance system using InsightFace/DeepFace, replacing dedicated hardware across 100 library branches and cutting rollout costs by ~80%.
+
+---
+
+### 📈 GitHub Stats
+
+![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rtapy&show_icons=true&theme=default&hide_border=true)
+
+---
+
+### 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/hasan-shirafkan-387828292/) · [GitHub](https://github.com/Rtapy) · shirafkanzarinhasan@gmail.com
