@@ -7,7 +7,11 @@ I design and build backend systems for complex business domains: marketplaces, d
 ```yaml
 location: Tehran, Iran
 current:  Sole backend developer, AKA Freelancer (freelance marketplace)
-focus:    REST APIs, authentication & authorization, data pipelines, rule engines
+focus:
+  - backend architecture & system design
+  - modular monoliths, clean architecture, service boundaries
+  - API design, authentication & authorization
+  - data pipelines & AI-assisted ingestion
 education: B.Sc. Computer Engineering (Software), Islamic Azad University, Hamadan
 ```
 
@@ -15,31 +19,14 @@ education: B.Sc. Computer Engineering (Software), Islamic Azad University, Hamad
 
 ## Selected Work
 
-### AKA Freelancer · Freelance marketplace
-*2026 – present*
+**AKA Freelancer** · Freelance marketplace
+Modular Django monolith organized by bounded contexts. JWT + OTP auth with Redis, ownership-scoped APIs, and a TDD workflow with pytest.
 
-Modular monolith in Django, split into bounded-context apps inside a shared monorepo.
+**Phoenix Life** · Digital health platform
+Django REST backend with a separate FastAPI rule-engine service and an AI-assisted OCR pipeline for lab reports. Cut token consumption by 15%.
 
-- JWT + OTP authentication with Redis-backed state, HttpOnly refresh cookies, CSRF protection, and separate staff / marketplace authorization contexts
-- Ownership-scoped profile, portfolio, taxonomy, and media APIs with validation, atomic transactions, and OpenAPI docs
-- Test-driven development with pytest: auth, permissions, transaction rollbacks, API contracts
-
-### Phoenix Life · Digital health platform
-*2025 – 2026*
-
-Django REST Framework backend with a separate FastAPI rule engine service.
-
-- Refactored an untested legacy FastAPI monolith into a modular, clean-architecture service
-- Ingestion pipelines for Excel, image, and PDF lab reports: AI-assisted OCR (OpenAI Vision API), canonical test mapping, reference-range normalization, duplicate prevention. Token consumption reduced by 15%
-- YAML-driven rule engine with recursive AND/OR conditions and calculated indicators; structured validation, logging, Dockerized
-- JWT authentication, role-based permissions, and laboratory-scoped data access
-
-### Public Libraries Administration · Workforce management
-*2024 – 2025*
-
-- Django REST workflows for employees, regional units, shifts, leave and mission approvals, attendance, and daily reporting
-- Face-recognition attendance (InsightFace / DeepFace): enrollment, quality-aware multi-frame matching, entry/exit recording. Replaced dedicated hardware across 100 branches, cutting rollout cost by ~80%
-- Personnel-code JWT login with role- and regional-unit-scoped authorization; containerized with Docker and Gunicorn
+**Public Libraries Administration** · Workforce management
+Attendance and shift management with face recognition, replacing dedicated hardware across 100 branches and cutting rollout cost by ~80%.
 
 ---
 
@@ -66,4 +53,4 @@ Django REST Framework backend with a separate FastAPI rule engine service.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/hasan-shirafkan-387828292/) · [GitHub](https://github.com/Rtapy) · shirafkanzarinhasan@gmail.com
+[LinkedIn](https://www.linkedin.com/in/hasan-shirafkan-387828292/) · shirafkanzarinhasan@gmail.com
