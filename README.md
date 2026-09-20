@@ -12,7 +12,6 @@ focus:
   - modular monoliths, clean architecture, service boundaries
   - API design, authentication & authorization
   - data pipelines & AI-assisted ingestion
-education: B.Sc. Computer Engineering (Software), Islamic Azad University, Hamadan
 ```
 
 ---
